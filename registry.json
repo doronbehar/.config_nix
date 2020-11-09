@@ -1,0 +1,28 @@
+{
+  "flakes": [
+    {
+      "from": {
+        "id": "nixpkgs",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "doronbehar",
+        "ref": "myChannel",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "mach",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "DavHau",
+        "repo": "mach-nix",
+        "type": "github"
+      }
+    }
+  ],
+  "version": 2
+}
