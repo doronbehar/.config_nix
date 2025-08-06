@@ -1,4 +1,4 @@
 doronbehar@build-box.nix-community.org         x86_64-linux   /home/doron/.ssh/build-box.nix-community.org         1 1 kvm
-doronbehar@aarch64-build-box.nix-community.org aarch64-linux  /home/doron/.ssh/aarch64-build-box.nix-community.org 1 1 kvm
+doronbehar@aarch64-build-box.nix-community.org aarch64-linux  /home/doron/.ssh/build-box.nix-community.org         1 1 kvm
 doronbehar@darwin-build-box.nix-community.org  aarch64-darwin /home/doron/.ssh/darwin-build-box.nix-community.org  1 1 kvm
 doronbehar@darwin-build-box.nix-community.org  x86_64-darwin  /home/doron/.ssh/darwin-build-box.nix-community.org  1 1 kvm
