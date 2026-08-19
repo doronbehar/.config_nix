@@ -2,3 +2,4 @@ doronbehar@build-box.nix-community.org         x86_64-linux               /home/
 doronbehar@aarch64-build-box.nix-community.org aarch64-linux,armv7l-linux /home/doron/.ssh/build-box.nix-community.org         1 1 kvm,big-parallel,gccarch-armv7-a,nixos-test
 doronbehar@darwin-build-box.nix-community.org  aarch64-darwin             /home/doron/.ssh/darwin-build-box.nix-community.org  1 1 kvm,big-parallel
 doronbehar@darwin-build-box.nix-community.org  x86_64-darwin              /home/doron/.ssh/darwin-build-box.nix-community.org  1 1 kvm,big-parallel
+nix-remote-builder@office                      x86_64-linux               /root/.ssh/nix-remote-builder-office                 1 1
