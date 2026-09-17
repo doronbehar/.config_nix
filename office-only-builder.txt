@@ -1,0 +1,1 @@
+nix-remote-builder@office                      x86_64-linux               /root/.ssh/nix-remote-builder-office                 1 1 big-parallel
